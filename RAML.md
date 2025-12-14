@@ -396,21 +396,3 @@ properties:
 
 ---
 
-# Presentation Tips
-
-1. Open VS Code → Open project folder
-2. Show **folder structure** first
-3. Explain **main RAML file**
-4. Show **types**, **traits**, **resourceTypes** folders
-5. Present **overlay** and **extension** last
-
-### Most Important Viva Question
-
-**Q:** Does this API run?
-**A:**
-
-> "This is a RAML API contract. It is designed first and later implemented using MuleSoft or backend services."
-
-```
-
-
