@@ -1,4 +1,4 @@
-# 📝 MuleSoft Assignment: Real-World RAML Design Project
+# MuleSoft Assignment: Real-World RAML Design Project
 
 ## Project Title
 **Design a RESTful API for an Online Parcel Delivery & Courier Service**
